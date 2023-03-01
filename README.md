@@ -2,7 +2,7 @@
 
 // 1. Регистрация
 
-//Запрос: { "user": { "username": "kalushko26", "email": "vadim.kalushko@yandex.ru", "password": "123Qwerty!" } }
+//Запрос: { "user": { "username": "kalushko26", "email": "vadim.kalushko26@yandex.ru", "password": "123Qwerty!" } }
 //Ответ: 
 {
     "user": {
@@ -14,7 +14,7 @@
 
 // 2. Авторизация
 
-//Запрос { "user": { "email": "vadim.kalushko@yandex.ru", "password": "123Qwerty!" } } 
+//Запрос { "user": { "email": "vadim.kalushko26@yandex.ru", "password": "123Qwerty!" } } 
 //Ответ 
 {
     "user": {
