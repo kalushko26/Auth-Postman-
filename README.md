@@ -3,6 +3,7 @@
 // 1. Регистрация
 
 //Запрос: { "user": { "username": "kalushko26", "email": "vadim.kalushko26@yandex.ru", "password": "123Qwerty!" } }
+
 //Ответ: 
 {
     "user": {
@@ -15,6 +16,7 @@
 // 2. Авторизация
 
 //Запрос { "user": { "email": "vadim.kalushko26@yandex.ru", "password": "123Qwerty!" } } 
+
 //Ответ 
 {
     "user": {
@@ -27,8 +29,10 @@
 // 3. Данные
 
 Ввожу токен в поле Авторизации (bearer token) из п.2
+
 "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZmY2NWIxNmY4YmVlMWIwMDU1NWEyZSIsInVzZXJuYW1lIjoia2FsdXNoa28yNiIsImV4cCI6MTY4Mjg2NjIwMSwiaWF0IjoxNjc3NjgyMjAxfQ.uSCRTYDHAg9liVbDLU8vFCkXYgZO9y8EJaerjyZLc0U"
 
+Получаю на выходе:
 {
     "user": {
         "username": "kalushko26",
