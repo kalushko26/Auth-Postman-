@@ -33,6 +33,7 @@
 "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZmY2NWIxNmY4YmVlMWIwMDU1NWEyZSIsInVzZXJuYW1lIjoia2FsdXNoa28yNiIsImV4cCI6MTY4Mjg2NjIwMSwiaWF0IjoxNjc3NjgyMjAxfQ.uSCRTYDHAg9liVbDLU8vFCkXYgZO9y8EJaerjyZLc0U"
 
 Получаю на выходе:
+
 {
     "user": {
         "username": "kalushko26",
